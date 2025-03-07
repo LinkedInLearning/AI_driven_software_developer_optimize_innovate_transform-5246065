@@ -1,0 +1,8 @@
+#!/Users/ronysheer/linked_in_courses/AI_Driven_Developer/AI_driven_software_developer_optimize_innovate_transform-5246065/01_06/venv/bin/python3.11
+# -*- coding: utf-8 -*-
+import re
+import sys
+from fastapi.cli import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
