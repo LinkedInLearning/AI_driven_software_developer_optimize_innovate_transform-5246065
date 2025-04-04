@@ -1,36 +1,27 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# The AI-Driven Software Developer: Optimize, Innovate, Transform
+This is the repository for the LinkedIn Learning course `The AI-Driven Software Developer: Optimize, Innovate, Transform`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+## Course description
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+<p>AI is revolutionizing software development—are you ready? In this course, join instructor Ronnie Sheer as he outlines how AI has transformed the world of software development, and shows you how to stay informed about future trends. Find out how generative AI, which got started in coding as autofill and chat conversations, has been rapidly expanding into more advanced and intricate practices integrated with development environments. Along the way, learn how retrieval-augmented generation (RAG) can help focus your code generation, and how to build complete lifecycles of development practice with AI tools.</p><p>This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out “Using GitHub Codespaces" with this course to learn how to get started.</p>
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+### Instructor
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
+Ronnie Sheer
 
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
+Software Developer and Instructor
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+
+                
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ronnie-sheer?u=104).
+
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/the-ai-driven-software-developer-optimize-innovate-transform
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQFwxBeJHd_KiA/learning-public-crop_675_1200/B4DZXPk.AOHwAc-/0/1742944330516?e=2147483647&v=beta&t=WoypxYTZq8scuwAnmTz7NSEmw9Z2v039nZ9Q96mAT6g
 
